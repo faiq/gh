@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "JSONStream": "^0.10.0",
+    "event-stream": "^3.2.2",
     "request": "^2.53.0"
   }
 }
